@@ -12,7 +12,7 @@ Rails.application.routes.draw do
       post :hide
     end
 
-    resoueces :resumes
+    resources :resumes
   end
 end
 
